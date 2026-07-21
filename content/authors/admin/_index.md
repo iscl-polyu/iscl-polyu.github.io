@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Wanrui Zhang
 
 # Full name (for SEO)
 first_name: Simon
