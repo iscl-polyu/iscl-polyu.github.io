@@ -3,8 +3,8 @@
 title: Wanrui Zhang
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Wanrui
+last_name: Zhang
 
 # Status emoji
 status:
@@ -14,28 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist
+role: Research Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, Grenoble, France
+  - name: AAE, PolyU, HKSAR
     url: https://liphy.univ-grenoble-alpes.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
+bio: PI of ISCL in AAE at PolyU, HKSAR
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Composite Durability
+  - Composite Reliability
+  - Composite Modelling
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: PhD in Mechanical and Automation Engineering
+      institution: The Chinese University of Hong Kong
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
